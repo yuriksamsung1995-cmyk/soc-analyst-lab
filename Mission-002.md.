@@ -1,0 +1,36 @@
+Mission 002 – Network Diagnostics
+
+1. Objective
+
+Practice basic network troubleshooting and connectivity testing.
+
+2. Environment
+
+* Operating System: Windows 11
+* Tool: PowerShell
+* Network: Local network (private details excluded)
+
+3. Diagnostic Tests
+
+Test	Result
+Gateway connectivity	Successful
+Internet connectivity	Successful
+DNS resolution	Successful
+
+4. Analysis
+
+Network connectivity tests confirmed that the gateway responded, internet connectivity was available and DNS resolution worked.
+
+5. Conclusion
+
+Basic network diagnostics help identify connectivity and DNS resolution problems.
+
+6. Skills Practiced
+
+* IPv4 fundamentals
+* Default Gateway
+* DNS
+* Network troubleshooting
+* PowerShell
+
+Status: Completed
